@@ -1,0 +1,3 @@
+image,worker,verdict,detected_items,missing,not_visible,items actually worn (fill in),verdict correct y/n (fill in)
+labworker1.jpg,1,SAFE,"ear:1, face-mask:1, glasses:1, gloves:2, head:1, shoes:2",,,,
+labworker2.jpg,1,UNSAFE,"ear:1, face-mask:1, glasses:1, gloves:3, head:1",SHOES,,,

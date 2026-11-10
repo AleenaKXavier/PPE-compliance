@@ -1,0 +1,12 @@
+image,worker,verdict,detected_items,missing,not_visible,items actually worn (fill in),verdict correct y/n (fill in)
+construction_worker2.jpg,1,SAFE,"ear:1, face:1, glasses:1, gloves:2, head:1, helmet:1, safety-vest:2, shoes:2",,,,
+test_worker1.jpg,1,UNSAFE,"head:1, helmet:1, shoes:2",SAFETY-VEST,,,
+test_worker1.jpg,2,UNSAFE,"head:1, helmet:1, shoes:2",SAFETY-VEST,,,
+test_worker1.jpg,3,SAFE,"hands:1, head:1, helmet:2, safety-vest:1, shoes:2",,,,
+test_worker1.jpg,4,UNSAFE,"hands:1, head:1, helmet:1, shoes:2",SAFETY-VEST,,,
+test_worker1.jpg,5,SAFE,"face:1, gloves:1, head:1, helmet:1, safety-suit:1, safety-vest:1, shoes:1",,,,
+test_worker1.jpg,6,UNSAFE,"head:1, safety-suit:1","HELMET, SAFETY-VEST, SHOES",,,
+test_worker1.jpg,7,UNSAFE,"hands:1, head:1, helmet:1","SAFETY-VEST, SHOES",,,
+test_worker1.jpg,8,UNSAFE,head:1,"HELMET, SAFETY-VEST, SHOES",,,
+test_worker2.jpg,1,UNSAFE,"glasses:1, hands:2, head:1, helmet:1",SAFETY-VEST,SHOES,,
+test_worker4.jpg,1,SAFE,"head:1, helmet:1, safety-vest:1, shoes:2",,,,
