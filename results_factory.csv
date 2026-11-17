@@ -1,4 +1,0 @@
-image,worker,verdict,detected_items,missing,not_visible,items actually worn (fill in),verdict correct y/n (fill in)
-factoryworker1.jpg,1,INCOMPLETE VIEW,"ear-mufs:1, face:1, glasses:1, gloves:1, hands:1, head:1, helmet:1, safety-vest:1",,SHOES,,
-ppeworker.jpg,1,UNSAFE,"ear:1, face:1, face-mask:1, glasses:1, gloves:2, head:1, helmet:1, safety-vest:1, shoes:2",EAR-MUFS,,,
-test_worker3.jpg,1,UNSAFE,"ear:2, ear-mufs:1, face:1, glasses:1, head:1, helmet:1",SAFETY-VEST,SHOES,,
